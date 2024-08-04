@@ -9,14 +9,14 @@ Notes:
 ### Participants
 | Participant   | Status | Remarks |
 | ------------- | ------ | ------- |
-| User 1        | ❌ | No screenshot of tool |
-| User 2        | ⚠️ | Has nested arrays due to divergence deep into the idea iteration, Some ideas are inferred due to being cutoff in the screenshot, The task for this user was to **use**, and **not** create a social media platform |
+| User 1        | ❌ | <ul><li>No screenshot of tool |
+| User 2        | ⚠️ | <ul><li>Has nested arrays due to divergence deep into the idea iteration</li><li>Some ideas are inferred due to being cutoff in the screenshot</li><li>The task for this user was to **use**, and **not** create a social media platform</li></ul> |
 | User 3        |  |
 | User 4        |  |
 | User 5        |  |
-| User 6        | ❌ |  No screenshot of tool |
+| User 6        | ❌ | <ul><li>No screenshot of tool</li></ul> |
 | User 7        | ✅ |
-| User 8        | ✅ | Has nested arrays due to divergence deep into the idea iteration |
+| User 8        | ✅ | <ul><li>Has nested arrays due to divergence deep into the idea iteration</li></ul> |
 | User 9        | ✅ |
 | User 10        | ✅ |
 | User 11        | ✅ |
