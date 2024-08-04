@@ -10,7 +10,7 @@ Notes:
 | Participant | Task | Status | Remarks |
 | ----------- | ---- | ------ | ------- |
 | User 1      | 🍕 Restaurant with Loyal Customers | ❌ | <ul><li>No screenshot of tool |
-| User 2      | 🌐 Social Media for Professional Growth* | ⚠️ | <ul><li>Has nested arrays due to divergence deep into the idea iteration</li><li>Some ideas are inferred due to being cutoff in the screenshot</li><li>The task for this user was **to use**, and **not create** a social media platform</li></ul> |
+| User 2      | 🌐 Social Media for Professional Growth* | ⚠️ | <ul><li>Has nested arrays due to divergence deep into the idea iteration</li><li>Some ideas are inferred due to being cutoff in the screenshot</li><li>The task that this user did was **to use**, and **not create** a social media platform</li></ul> |
 | User 3      | 🌐 Social Media for Professional Growth | ✅ | <ul><li>Prompt Settings not set (except AI Peer Roles)**</li></ul> |
 | User 4      | 🍕 Restaurant with Loyal Customers | ✅ |
 | User 5      | 🍕 Restaurant with Loyal Customers | ✅ |
