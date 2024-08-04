@@ -13,7 +13,7 @@ Notes:
 | User 2        | ⚠️ | <ul><li>Has nested arrays due to divergence deep into the idea iteration</li><li>Some ideas are inferred due to being cutoff in the screenshot</li><li>The task for this user was **to use**, and **not create** a social media platform</li></ul> |
 | User 3        | ✅ | <ul><li>Prompt Settings not set (except AI Peer Roles)*</li></ul> |
 | User 4        | ✅ |
-| User 5        |  |
+| User 5        | ✅ |
 | User 6        | ❌ | <ul><li>No screenshot of tool</li></ul> |
 | User 7        | ✅ |
 | User 8        | ✅ | <ul><li>Has nested arrays due to divergence deep into the idea iteration</li></ul> |
