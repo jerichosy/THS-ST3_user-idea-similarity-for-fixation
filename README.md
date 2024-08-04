@@ -1,0 +1,1 @@
+# ai-scamper_user-idea-analysis
