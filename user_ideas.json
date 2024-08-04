@@ -1,15 +1,41 @@
 {
     "user 2": {
         "idea 1": [
-            [""],
-            ["Cater to occasional posting about job opportunities and projects"]
+            [
+                "Easily accessible big groups to find people to communicate with",
+                [
+                    [
+                        "Social media persona that isn't bound to specific directions"
+                    ],
+                    [
+                        "Differentiate personal and professional social media presence"
+                    ]
+                ]
+            ],
+            [
+                "Cater to occasional posting about job opportunities and projects"
+            ]
         ],
         "idea 2": [
-            ["A social media account different from the user's personal account would be good"]
+            [
+                "A social media account different from the user's personal account would be good"
+            ]
         ],
         "idea 3": [
-            ["Not intending to replace social media platforms since that isn't the goal"],
-            [""]
+            [
+                "Not intending to replace social media platforms since that isn't the goal"
+            ],
+            [
+                "Professional-focused social media presence that can be a central source to branch off from",
+                [
+                    [
+                        "Branching out to focus on accessibility"
+                    ],
+                    [
+                        "Researching about several different companies", "Show experience and work-related hobbies"
+                    ]
+                ]
+            ]
         ]
     },
     "user 7": {

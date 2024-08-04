@@ -10,17 +10,18 @@ Notes:
 | Participant   | Status | Remarks |
 | ------------- | ------ | ------- |
 | User 1        | ❌ | No screenshot of tool |
-| User 2        |  |
+| User 2        | ⚠️ | Has nested arrays due to divergence deep into the idea iteration, Some ideas are inferred due to being cutoff in the screenshot, The task for this user was to **use**, and **not** create a social media platform |
 | User 3        |  |
 | User 4        |  |
 | User 5        |  |
 | User 6        | ❌ |  No screenshot of tool |
 | User 7        | ✅ |
-| User 8        | ✅ | Has nested arrays due to divergence deep into the idea iteration
+| User 8        | ✅ | Has nested arrays due to divergence deep into the idea iteration |
 | User 9        | ✅ |
 | User 10        | ✅ |
 | User 11        | ✅ |
 | User 12        | ✅ |
 
 ✅ - Done <br>
-❌ - Issue
+⚠️ - Potential issue (see Remarks)
+❌ - Cannot be done (see Remarks)
