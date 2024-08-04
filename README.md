@@ -23,5 +23,5 @@ Notes:
 | User 12        | ✅ |
 
 ✅ - Done <br>
-⚠️ - Potential issue (see Remarks)
+⚠️ - Potential issue (see Remarks) <br>
 ❌ - Cannot be done (see Remarks)
