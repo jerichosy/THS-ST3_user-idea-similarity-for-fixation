@@ -19,7 +19,7 @@ Notes:
 | User 8      | 🍕 Restaurant with Loyal Customers | ✅ | ✅ | Tool: <ul><li>Has nested arrays due to divergence deep into the idea iteration</li></ul> |
 | User 9      | 🍕 Restaurant with Loyal Customers | ✅ | ✅ | 
 | User 10     | 🌐 Social Media for Professional Growth | ✅ | ❌ | ChatGPT: <ul><li>No user-made ideas</li></ul> <br>(Notion) The final 5 ideas from the tool were about the Restaurant when it should've been about Social Media
-| User 11     | 🌐 Social Media for Professional Growth | ✅ | ? | ChatGPT: <ul><li>No ChatGPT link but there may be a recording</li></ul>
+| User 11     | 🌐 Social Media for Professional Growth | ✅ | ✅ | ChatGPT: <ul><li>No ChatGPT link but there's a recording</li></ul>
 | User 12     | 🍕 Restaurant with Loyal Customers | ✅ | ❌ | ChatGPT: <ul><li>No user-made ideas</li></ul>
 
 ✅ - Done <br>
