@@ -46,7 +46,7 @@
     "user 4": {
         "idea 1": [
             [
-                "Simple familiar menu items that will easily catch their eye",
+                "Simple, familiar menu items that will easily catch their eye",
                 "Simple, user-friendly tech like an order status monitor",
                 [
                     ["App with ordering feature and rewards program"],
@@ -65,10 +65,10 @@
     },
     "user 7": {
         "idea 1": [
-            ["Allowing users to discover and and connect with potential mentors in the user's field is efficient than traditional method of in-person interaction", "Exclusive paid subscriptions for premium conent and services", "Allows users to see a sneak peek before selecting and paying for a subscription"]
+            ["Allowing users to discover and connect with potential mentors in the user's field is more efficient than the traditional method of in-person interaction", "Exclusive paid subscriptions for premium content and services", "Allows users to see a sneak peek before selecting and paying for a subscription"]
         ],
         "idea 2": [
-            ["Add related post or ads in the user's news feed inline with the usual content they post or view", "Interrupt the user every now and then to rate their experience within the app through feedback surveys"]
+            ["Add related posts or ads in the user's news feed in line with the usual content they post or view", "Interrupt the user every now and then to rate their experience within the app through feedback surveys"]
         ]
     },
     "user 8": {
@@ -101,7 +101,7 @@
     },
     "user 11": {
         "idea 1": [
-            ["Social media monetization","Balancing user experience with revenue generation to avoid deterring and frustrating users"],
+            ["Social media monetization", "Balancing user experience with revenue generation to avoid deterring and frustrating users"],
             ["Project/task management and tracking, and team collaboration is unnecessary"]
         ],
         "idea 2": [
@@ -109,7 +109,7 @@
             ["Students unable to access premium features due to financial constraints"]
         ],
         "idea 3": [
-            ["Gamifying the platform might be distracting which is not the theme of the platform", "Concrete examples of modular gamification?"],
+            ["Gamifying the platform might be distracting, which is not the theme of the platform", "Concrete examples of modular gamification?"],
             ["How might users connect with one another to form accountability groups?"]
         ]
     },
