@@ -1,4 +1,4 @@
-# THS-STX_user-idea-similarity-for-fixation
+# THS-ST3_user-idea-similarity-for-fixation
 
 Goal: See how much an idea changes from its original
 
