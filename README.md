@@ -28,3 +28,6 @@ Notes:
 
 *Didn't completely follow the specified task. <br>
 **Didn't double-check other participants, but it shouldn't matter.
+
+### Disclaimer:
+No identifiable data should be in here. If there's any, please contact me.
