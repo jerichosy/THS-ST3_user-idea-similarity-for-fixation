@@ -1,4 +1,4 @@
-# ai-scamper_user-idea-analysis
+# THS-STX_user-idea-similarity-for-fixation
 
 Goal: See how much an idea changes from its original
 
